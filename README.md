@@ -129,5 +129,5 @@ Contributions are always welcome! Here's how to get started:
 
 ## **License**
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project. For more details, check the [LICENSE](LICENSE) file.
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project.
 
