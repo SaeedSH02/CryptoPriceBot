@@ -131,9 +131,3 @@ Contributions are always welcome! Here's how to get started:
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project. For more details, check the [LICENSE](LICENSE) file.
 
----
-
-## **Contact**
-If you encounter any issues or have questions, feel free to reach out or open an issue on the [GitHub repository](https://github.com/SaeedSH02/CryptoPriceBot).
-```
-
