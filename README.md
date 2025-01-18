@@ -1,4 +1,4 @@
-```markdown
+
 # Telegram Crypto Price Bot
 
 A simple and interactive Telegram bot built with Go that fetches real-time cryptocurrency prices. This bot allows users to check the latest prices and 24h/1h change percentages of popular cryptocurrencies such as Bitcoin, Ethereum, Solana, Dogecoin, and more.
